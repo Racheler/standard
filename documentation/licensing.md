@@ -4,7 +4,7 @@
 
 ### About this Guide
 
-This guide is for organisations publishing grantmaking information to the 360Giving format. We assume that you have permission to publish the information if you are not the primary owner. For example, if the information was collected or published by donors, subsidiaries or other third parties.
+This guide is for organisations publishing grantmaking information to the 360Giving Standard. We assume that you have permission to publish the information if you are not the primary owner. For example, if the information was collected or published by donors, subsidiaries or other third parties.
 
 ### What is open data?
 
